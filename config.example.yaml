@@ -1,0 +1,80 @@
+# ==============================================================================
+# === SECURITY - Sensitive data and credentials
+# === SECURITY - Wrażliwe dane i poświadczenia
+# ==============================================================================
+security:
+  # WARNING: Storing a plaintext password is a significant security risk.
+  # OSTRZEŻENIE: Przechowywanie hasła w postaci czystego tekstu jest znaczącym ryzykiem bezpieczeństwa.
+  sudo_pswd: '*****'
+
+  # Absolute path to the Google API client_secret.json file.
+  # Absolutna ścieżka do pliku client_secret.json od Google API.
+  api_creds_path: /home/*****/BLOX-TAK-SERVER-IUCP/client_secret.json
+
+# ==============================================================================
+# === PATHS - Paths to key project directories
+# === PATHS - Ścieżki do kluczowych katalogów projektu
+# ==============================================================================
+paths:
+  # Directory where the final .zip packages for users will be saved.
+  # Katalog, w którym będą zapisywane finalne paczki .zip dla użytkowników.
+  attachment_output: /home/*****/BLOX-TAK-SERVER-IUCP/
+
+  # Directory where generated .pref and certificate files are placed before packaging.
+  # Katalog, w którym generowane są pliki .pref i certyfikaty przed spakowaniem.
+  preferences_output: /home/*****/BLOX-TAK-SERVER-IUCP/IUCP-IPPU_PACKAGE/certs/
+
+  # The absolute path to the project's root directory.
+  # Absolutna ścieżka do głównego katalogu projektu.
+  project_root: /home/*****/BLOX-TAK-SERVER-IUCP/
+
+# ==============================================================================
+# === USER MANAGEMENT - User data management
+# === USER MANAGEMENT - Zarządzanie danymi użytkowników
+# ==============================================================================
+user_management:
+  # Public URLs to the Google Sheets (published as CSV) containing user data.
+  # Publiczne URL-e do Arkuszy Google (opublikowanych jako CSV) z danymi użytkowników.
+  data_sources:
+    en: https://docs.google.com/spreadsheets/d/e/2PACX-1vR-r4HG3Qdelr4fqt9GxmA7pljbFRxwsQRddxF6qY6FChMMYlC_trLesLgF8ayjhWe00n7PeuUQ6TSp/pub?gid=754383885&single=true&output=csv
+    pl: https://docs.google.com/spreadsheets/d/e/2PACX-1vRdndMsKWQbT6RtHunuyoizVTeNE60RTRBh8OSlGY9FDEwcmqKwPaTB96b-rBDR7aImSjHk3l9x4hV_/pub?gid=1887676185&single=true&output=csv
+
+  # --- Runtime State ---
+  # This section is managed automatically by the scripts. Do not edit manually.
+  # Ta sekcja jest zarządzana automatycznie przez skrypty. Nie edytuj ręcznie.
+  state:
+    client_name: '*****'
+    email_address: '*.*.*@gmail.com'
+    registration_date: '*-*-* *:*:*'
+    number_users: 0
+    user_index: 0
+    user_type: EN
+
+email:
+  # Set the email address you want to send messages from.
+  # Ustaw adres e-mail, z którego chcesz wysyłać wiadomości.
+  sender_email: '*.*.*@gmail.com'
+
+# ==============================================================================
+# === NETWORK - Network configuration
+# === NETWORK - Konfiguracja sieciowa
+# ==============================================================================
+network:
+  # The external IP of the server, automatically detected by check_ip.py.
+  # Zewnętrzny adres IP serwera, automatycznie wykrywany przez check_ip.py.
+  external_ip: '*.*.*.*'
+
+  # Details for the remote server if 'remote' mode is used.
+  # Dane zdalnego serwera, używane w trybie 'remote'.
+  remote_server:
+    host: '*.*.*.*'
+    user: '*****'
+
+# ==============================================================================
+# === EXECUTION - Script execution mode
+# === EXECUTION - Tryb pracy skryptów
+# ==============================================================================
+execution:
+  # The operating mode of the scripts: 'local' or 'remote'. Managed by set_mode.py.
+  # Tryb pracy skryptów: 'local' lub 'remote'. Zarządzany przez set_mode.py.
+  mode: remote
