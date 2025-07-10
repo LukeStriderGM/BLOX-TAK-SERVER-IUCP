@@ -283,9 +283,10 @@ Ten projekt i wszyscy jego uczestnicy podlegają zasadom Contributor Covenant. Z
 
 Tłumaczenie [PL]:
 
-# Kodeks Postępowania - Contributor Covenant
 
-## Nasza Obietnica
+## Kodeks Postępowania - Contributor Covenant
+
+### Nasza Obietnica
 
 Jako członkinie i członkowie, współtwórczynie i współtwórcy oraz liderki i liderzy
 zobowiązujemy się, że udział w naszej społeczności będzie wolny od nękania dla
@@ -297,7 +298,7 @@ narodowość, wygląd, rasę, religię czy tożsamość i orientację seksualną
 Zobowiązujemy się do działania i interakcji w sposób, który przyczynia się do
 tworzenia otwartej, przyjaznej, zróżnicowanej, inkluzywnej i zdrowej społeczności.
 
-## Nasze Standardy
+### Nasze Standardy
 
 Przykłady zachowań, które przyczyniają się do tworzenia pozytywnego środowiska
 dla naszej społeczności, obejmują:
@@ -322,7 +323,7 @@ Przykłady niedopuszczalnych zachowań obejmują:
 * Inne zachowania, które można by uznać za niewłaściwe w środowisku
     profesjonalnym
 
-## Obowiązki Egzekwowania Zasad
+### Obowiązki Egzekwowania Zasad
 
 Liderki i liderzy społeczności są odpowiedzialni za wyjaśnianie i egzekwowanie
 naszych standardów oraz podejmą odpowiednie i sprawiedliwe działania naprawcze w
@@ -334,7 +335,7 @@ odrzucać komentarze, commity, kod, edycje wiki, zgłoszenia i inne formy wkład
 które nie są zgodne z niniejszym Kodeksem Postępowania, i w razie potrzeby
 przedstawią powody swoich decyzji moderacyjnych.
 
-## Zakres
+### Zakres
 
 Niniejszy Kodeks Postępowania obowiązuje we wszystkich przestrzeniach
 społeczności, a także wtedy, gdy dana osoba oficjalnie reprezentuje społeczność w
@@ -343,7 +344,7 @@ używanie oficjalnego adresu e-mail, publikowanie postów za pośrednictwem
 oficjalnego konta w mediach społecznościowych lub występowanie w charakterze
 wyznaczonej przedstawicielki lub przedstawiciela na wydarzeniu online lub offline.
 
-## Egzekwowanie Zasad
+### Egzekwowanie Zasad
 
 Przypadki obraźliwego, nękającego lub w inny sposób niedopuszczalnego zachowania
 mogą być zgłaszane liderkom i liderom społeczności odpowiedzialnym za egzekwowanie
@@ -353,7 +354,7 @@ Wszystkie skargi zostaną rozpatrzone i zbadane niezwłocznie i sprawiedliwie.
 Wszystkie liderki i liderzy społeczności są zobowiązani do poszanowania prywatności i
 bezpieczeństwa osoby zgłaszającej incydent.
 
-## Wytyczne Dotyczące Egzekwowania Zasad
+### Wytyczne Dotyczące Egzekwowania Zasad
 
 Liderki i liderzy społeczności będą postępować zgodnie z niniejszymi Wytycznymi
 Dotyczącymi Wpływu na Społeczność przy określaniu konsekwencji za każde
