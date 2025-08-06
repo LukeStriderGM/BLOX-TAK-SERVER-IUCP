@@ -8,7 +8,7 @@
 
 ### Reporting a Vulnerability
 
-#### [INCIDENT DOCS - GitHUB](https://github.com/LukeStriderGM/BLOX-TAK-SERVER-GCP_Early_Stage_Access/tree/master/INCIDENTS)
+#### [INCIDENT DOCS - GitHUB](https://github.com/LukeStriderGM/BLOX-TAK-SERVER-IUCP/tree/master/INCIDENTS)
 #### [INCIDENT DOCS - GoogleDrive](https://drive.google.com/drive/folders/1DIs_7qLvylskWJz5AfjN15lrO8ZnhSQx)
 
 EN: https://www.linkedin.com/posts/lukebluelox_security-incident-analysis-and-action-plan-activity-7355203415456595968-vCLE
